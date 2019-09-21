@@ -1,0 +1,37 @@
+{
+	"Faculty1": {
+		"first Name": ["Mr Baith"],
+		"last Name": ["superb"],
+		"photo": ["url"],
+		"department": ["meta"],
+		"reasearch area": ["theromdynamic", "vlsi", "Embedded system"],
+		"contact_details": [{
+				"first_mob": 2839447760,
+				"second_mob": 3677130778
+			},
+			{
+				"Email Address": ["er.nitbairwa@iiitkota.ac.in", "2015kuec2008@gmail.com"],
+				"Residential Address": [{
+						"Home": "16A shiv shankar colony railwaystation"
+					},
+					{
+						"Office": "13A at start up osis"
+					}
+				]
+			}
+
+		]
+	},
+	"Faculty2": {
+		"first Name": [22, "hgfhg"],
+		"last Name": ["dsf"],
+		"photo": ["sdf"],
+		"department": ["dsf"],
+		"reasearch area": [],
+		"contact_details": [{
+			"first_mob": 2839447760
+		}, {
+			"second_mob": 3677130778
+		}]
+	}
+}
